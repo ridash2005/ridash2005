@@ -20,7 +20,7 @@
 ---
 
 ### 🚀 About Me
-I am a passionate **Computer Architect** and **Digital System Designer** with a focus on **RISC-V** implementations and **VLSI Automation**. I love bridging the gap between hardware and software, optimizing performance from the gate level up to the application layer.
+I am a passionate **Hardware Architect** and **Digital System Designer** with a focus on **RISC-V** implementations and **VLSI Automation**. I love bridging the gap between hardware and software, optimizing performance from the gate level up to the application layer.
 
 - 🔭 **Currently working on**: High-performance RISC-V core optimizations and automated physical design flows.
 - ⚡ **Key Interests**: ISA Design, Heterogeneous Computing, RTL Verification, and AI-accelerated Hardware.
@@ -97,6 +97,6 @@ I am a passionate **Computer Architect** and **Digital System Designer** with a 
 ---
 
 <div align="center">
-  <h3>Let's build the future of silicon together! 🔌</h3>
+  <h3>Let's build the future bridging AI and silicon together! 🔌</h3>
   <p><i>"The hardware is only as good as the software it runs, and the software is only as fast as the hardware allows."</i></p>
 </div>

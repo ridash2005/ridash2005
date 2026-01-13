@@ -57,7 +57,7 @@ I am a passionate **Hardware Architect** and **Digital System Designer** with a 
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <br/>
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/CUDA-000000?style=flat-square&logo=cuda&logoColor=black" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/Vivado-007ACC?style=flat-square" /> <br/>

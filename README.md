@@ -89,10 +89,6 @@ I am a passionate **Hardware Architect** and **Digital System Designer** with a 
 
 ---
 
-<p align="center">
-  <img src="assets/footer_wide.png" alt="Footer Banner" width="100%">
-</p>
-
 <div align="center">
   <h3>Let's build the future bridging AI and silicon together! 🔌</h3>
   <p><i>"The hardware is only as good as the software it runs, and the software is only as fast as the hardware allows."</i></p>

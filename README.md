@@ -42,28 +42,27 @@ I am a passionate **Hardware Architect** and **Digital System Designer** with a 
 
 <table align="center">
   <tr>
-    <td align="center" width="200"><strong>Hardware Design</strong></td>
-    <td align="center" width="200"><strong>Software & Scripting</strong></td>
-    <td align="center" width="200"><strong>Tools & Environments</strong></td>
+    <td align="center" width="280"><strong>Hardware Design</strong></td>
+    <td align="center" width="280"><strong>Software & Scripting</strong></td>
+    <td align="center" width="280"><strong>Tools & Environments</strong></td>
   </tr>
   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Verilog-F0E68C?style=flat-square&logo=verilog&logoColor=black" /> <br/>
-      <img src="https://img.shields.io/badge/SystemVerilog-0058AD?style=flat-square" /> <br/>
-      <img src="https://img.shields.io/badge/RISC--V-67AC4F?style=flat-square" /> <br/>
-      <img src="https://img.shields.io/badge/FPGA-BB0000?style=flat-square" />
+    <td align="center">
+      <img src="https://img.shields.io/badge/Verilog-F0E68C?style=for-the-badge&logo=verilog&logoColor=black" /> <br/>
+      <img src="https://img.shields.io/badge/SystemVerilog-0058AD?style=for-the-badge" /> <br/>
+      <img src="https://img.shields.io/badge/RISC--V-67AC4F?style=for-the-badge" /> <br/>
+      <img src="https://img.shields.io/badge/FPGA-BB0000?style=for-the-badge" />
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnu-bash&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/CUDA-4EAA25?style=flat-square&logo=cuda&logoColor=black" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp,py,bash&theme=dark" />
+      <br/>
+      <img src="https://img.shields.io/badge/CUDA-4EAA25?style=for-the-badge&logo=cuda&logoColor=black" />
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/Vivado-007ACC?style=flat-square" /> <br/>
-      <img src="https://img.shields.io/badge/GTKWave-003366?style=flat-square" /> <br/>
-      <img src="https://img.shields.io/badge/ModelSim-005A9C?style=flat-square" /> <br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,linux,vscode,github&theme=dark" />
+      <br/>
+      <img src="https://img.shields.io/badge/Vivado-007ACC?style=for-the-badge" /> <br/>
+      <img src="https://img.shields.io/badge/ModelSim-005A9C?style=for-the-badge" />
     </td>
   </tr>
 </table>
@@ -80,23 +79,19 @@ I am a passionate **Hardware Architect** and **Digital System Designer** with a 
 | **[AutoPlacer](https://github.com/ridash2005/AutoPlacer)** | Automated VLSI cell placement optimizer for high-density layouts. | Python, NumPy, Matplotlib |
 | **[CUDA Kernels](https://github.com/ridash2005/CUDA_Kernels)** | High-performance custom CUDA kernels for mathematical and neural operations. | CUDA, C++, GPU |
 
-
 ---
 
-### 📊 GitHub Analytics
+### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ridash2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridash2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridash2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridash2005&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
 <div align="center">
+  <img src="assets/footer.png" alt="Footer Banner" width="100%">
+  <br/>
   <h3>Let's build the future bridging AI and silicon together! 🔌</h3>
   <p><i>"The hardware is only as good as the software it runs, and the software is only as fast as the hardware allows."</i></p>
 </div>

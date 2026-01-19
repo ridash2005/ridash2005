@@ -1,8 +1,8 @@
 <div align="center">
   <img src="assets/banner.png" alt="Profile Banner" width="100%">
   <br/>
-  <h1>Hi, I'm <a href="https://github.com/ridash2005">ridash</a> 👋</h1>
-  <h3>Hardware Architect | System-on-Chip (SoC) Developer | VLSI Enthusiast</h3>
+  <h1>Hi, I'm <a href="https://github.com/ridash2005">Rickarya Das</a> 👋</h1>
+  <h3>Hardware Architect | System-on-Chip (SoC) Developer | VLSI, AI and Computer Vision Enthusiast</h3>
   
   <p align="center">
     <a href="https://www.linkedin.com/in/rickarya-das-06ab002b3/" target="_blank">
@@ -20,23 +20,16 @@
 ---
 
 ### 🚀 About Me
-I am a passionate **Hardware Architect** and **Digital System Designer** with a focus on **RISC-V** implementations and **VLSI Automation**. I love bridging the gap between hardware and software, optimizing performance from the gate level up to the application layer.
+I am a passionate **Hardware Architect** and **Digital System Designer** . I love bridging the gap between hardware and Artificial Intelligence.
 
-- 🔭 **Currently working on**: High-performance RISC-V core optimizations and automated physical design flows.
-- ⚡ **Key Interests**: ISA Design, Heterogeneous Computing, RTL Verification, and AI-accelerated Hardware.
-- 🎓 **Academic Focus**: Enhancing VLSI placement efficiency using modern heuristics.
+- 🔭 **Currently working on**: Real-Time Intelligent Video Surveillance System Using NVIDIA Jetson Nano
+- ⚡ **Key Interests**: RTL Design and Verification, Embedded Systems, AI-Accelerated Hardware, 3D Reconstruction, AI on Edge Devices
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ridash2005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
-
-### 🔬 Research Interests
-- **Hardware Accelerators**: Optimizing Systolic Arrays and Neural Engines for edge-AI.
-- **Computer Architecture**: Exploring Multi-Precision arithmetic in RISC-V cores.
-- **VLSI EDA**: Improving placement and routing algorithms for sub-7nm processes.
-
 
 ### 💻 Technical Arsenal
 

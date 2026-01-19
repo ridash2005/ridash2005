@@ -75,7 +75,7 @@ I am a passionate **Hardware Architect** and **Digital System Designer** with a 
 | :--- | :--- | :--- |
 | **[Bit-Serial Neural Engine](https://github.com/ridash2005/Bit-Serial_Neural_Computation_Engine)** | A hardware accelerator for neural computation using bit-serial arithmetic for high efficiency. | Verilog, RTL, Neural Arch |
 | **[Systolic Array CNN Accelerator](https://github.com/ridash2005/Systolic-Array-based-Hardware-Accelerator-for-CNNs)** | High-throughput systolic array architecture optimized for Convolutional Neural Networks. | SystemVerilog, Vivado, CNNs |
-| **[RISC-V Multi-Precision Core](https://github.com/ridash2005/RISC_V_Single_Cycle_Processor)** | A complete RV32I/RV64I implementation with multi-precision support. | Verilog, RISC-V ISA |
+| **[RISC-V Multi-Precision Core](https://github.com/ridash2005/RISC-V_MultiPrecision_Processor_Core)** | A complete RV32I/RV64I implementation with multi-precision support. | Verilog, RISC-V ISA |
 | **[AutoPlacer](https://github.com/ridash2005/AutoPlacer)** | Automated VLSI cell placement optimizer for high-density layouts. | Python, NumPy, Matplotlib |
 | **[CUDA Kernels](https://github.com/ridash2005/CUDA_Kernels)** | High-performance custom CUDA kernels for mathematical and neural operations. | CUDA, C++, GPU |
 

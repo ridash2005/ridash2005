@@ -1,88 +1,248 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Profile Banner" width="100%">
-  <br/>
-  <h1>Hi, I'm <a href="https://github.com/ridash2005">Rickarya Das</a> 👋</h1>
-  <h3>Hardware Architect | System-on-Chip (SoC) Developer | VLSI, AI and Computer Vision Enthusiast</h3>
-  
-  <p align="center">
-    <a href="https://www.linkedin.com/in/rickarya-das-06ab002b3/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:rickaryadas@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/ridash2005">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
+
+<!-- Dynamic Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Rickarya+Das+%F0%9F%91%8B;Hardware+Architect+%7C+SoC+Designer;Software+Engineer+%7C+Full-Stack+Builder;AI+%2F+ML+Engineer+%7C+LLM+Hacker;RISC-V+%7C+VLSI+%7C+CUDA+%7C+PyTorch" alt="Typing SVG" />
+
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rickarya-das-06ab002b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rickaryadas@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ridash2005">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ridash2005&label=Profile+Views&color=00D4FF&style=for-the-badge" />
+</p>
+
 </div>
 
 ---
 
-### 🚀 About Me
-I am a passionate **Hardware Architect** and **Digital System Designer** . I love bridging the gap between hardware and Artificial Intelligence.
+## 🧬 Who I Am
 
-- 🔭 **Currently working on**: Real-Time Intelligent Video Surveillance System Using NVIDIA Jetson Nano
-- ⚡ **Key Interests**: RTL Design and Verification, Embedded Systems, AI-Accelerated Hardware, 3D Reconstruction, AI on Edge Devices
+```text
+┌─────────────────────────────────────────────────────────────────────┐
+│  Name     : Rickarya Das (ridash)                                   │
+│  Domains  : Hardware Architecture · Software Engineering · AI/ML    │
+│  Focus    : Silicon → Firmware → Systems → Intelligence             │
+│  Motto    : "From gates to gradients — I build the full stack."     │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ridash2005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+I architect systems at **every level of the computing stack** — from RTL gate logic and RISC-V silicon to full-stack applications and production LLM pipelines. I believe the engineers who understand *all three layers* will define the next decade of AI hardware.
+
+- 🔭 **Currently:** High-performance RISC-V core optimizations + automated physical design flows
+- 🤖 **AI Research:** Hardware accelerators for edge inference, LLM-aware chip design
+- 💻 **Software:** Full-stack systems, GPU kernel engineering, MLOps pipelines
+- 🎓 **Academic:** VLSI placement efficiency via modern metaheuristics
 
 ---
 
-### 💻 Technical Arsenal
+## ⚡ Technical Arsenal
+
+### 🔩 Hardware Engineering
+
+| Category | Skills & Tools |
+|---|---|
+| **HDL / RTL Design** | ![Verilog](https://img.shields.io/badge/Verilog-F0E68C?style=flat-square&logo=verilog&logoColor=black) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-0058AD?style=flat-square) ![VHDL](https://img.shields.io/badge/VHDL-8B0000?style=flat-square) ![Chisel](https://img.shields.io/badge/Chisel-E07B39?style=flat-square) |
+| **Architecture** | ![RISC-V](https://img.shields.io/badge/RISC--V-67AC4F?style=flat-square) ![ARM](https://img.shields.io/badge/ARM_Cortex--M-00979D?style=flat-square) ![SoC Design](https://img.shields.io/badge/SoC_Design-6A0DAD?style=flat-square) ![AXI/AHB](https://img.shields.io/badge/AXI%2FAHB-2C3E50?style=flat-square) |
+| **FPGA & Simulation** | ![Vivado](https://img.shields.io/badge/Vivado-007ACC?style=flat-square) ![ModelSim](https://img.shields.io/badge/ModelSim-005A9C?style=flat-square) ![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=flat-square) ![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-6A5ACD?style=flat-square) |
+| **VLSI EDA** | ![Synopsys DC](https://img.shields.io/badge/Synopsys_DC-CC0000?style=flat-square) ![Cadence Virtuoso](https://img.shields.io/badge/Cadence_Virtuoso-FF6F00?style=flat-square) ![OpenROAD](https://img.shields.io/badge/OpenROAD-3CB371?style=flat-square) ![Magic VLSI](https://img.shields.io/badge/Magic_VLSI-555555?style=flat-square) |
+| **Protocols** | ![PCIe](https://img.shields.io/badge/PCIe-003366?style=flat-square) ![AXI](https://img.shields.io/badge/AXI-4A4A8A?style=flat-square) ![I2C/SPI/UART](https://img.shields.io/badge/I2C%2FSPI%2FUART-556B2F?style=flat-square) ![JTAG](https://img.shields.io/badge/JTAG-8B4513?style=flat-square) |
+| **Verification** | ![UVM](https://img.shields.io/badge/UVM-DC143C?style=flat-square) ![Formal Verification](https://img.shields.io/badge/Formal_Verification-4682B4?style=flat-square) ![Cocotb](https://img.shields.io/badge/Cocotb-2E8B57?style=flat-square) |
+
+---
+
+### 💻 Software Engineering
+
+| Category | Skills & Tools |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Systems & OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Assembly](https://img.shields.io/badge/x86%2FARM_Assembly-555555?style=flat-square) ![Makefile](https://img.shields.io/badge/Makefile-427819?style=flat-square) |
+| **Testing** | ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
+---
+
+### 🤖 AI / ML Engineering
+
+| Category | Skills & Tools |
+|---|---|
+| **Core Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![JAX](https://img.shields.io/badge/JAX-A435F0?style=flat-square) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| **GPU & HPC** | ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![cuDNN](https://img.shields.io/badge/cuDNN-76B900?style=flat-square&logo=nvidia&logoColor=white) ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white) ![OpenMP](https://img.shields.io/badge/OpenMP-222222?style=flat-square) |
+| **LLM & GenAI** | ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat-square) ![Anthropic API](https://img.shields.io/badge/Anthropic_API-191919?style=flat-square) ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) |
+| **Hardware AI** | ![Systolic Arrays](https://img.shields.io/badge/Systolic_Arrays-CC0000?style=flat-square) ![Neural Engines](https://img.shields.io/badge/Neural_Engines-6A0DAD?style=flat-square) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white) ![Edge AI](https://img.shields.io/badge/Edge_AI-2C7BB6?style=flat-square) |
+| **Data & MLOps** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black) |
+| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black) ![CLIP](https://img.shields.io/badge/CLIP-412991?style=flat-square) |
+
+---
+
+### ☁️ DevOps, Cloud & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,aws,gcp,vscode,vim,bash&theme=dark&perline=10" />
+</p>
+
+| Category | Tools |
+|---|---|
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
+| **Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
+| **IaC** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) |
+| **Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
+
+---
+
+## 🌟 Featured Projects
 
 <table align="center">
   <tr>
-    <td align="center" width="280"><strong>Hardware Design</strong></td>
-    <td align="center" width="280"><strong>Software & Scripting</strong></td>
-    <td align="center" width="280"><strong>Tools & Environments</strong></td>
+    <td width="50%">
+      <h3 align="center">⚙️ Bit-Serial Neural Engine</h3>
+      <p align="center">
+        Hardware accelerator for neural computation using <strong>bit-serial arithmetic</strong> for maximum efficiency at ultra-low power. Demonstrates HW + AI co-design thinking.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Verilog-F0E68C?style=flat-square" />
+        <img src="https://img.shields.io/badge/RTL-CC0000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Neural_Arch-6A0DAD?style=flat-square" />
+      </p>
+      <p align="center"><a href="https://github.com/ridash2005/Bit-Serial_Neural_Computation_Engine">🔗 View Project</a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧠 Systolic Array CNN Accelerator</h3>
+      <p align="center">
+        High-throughput <strong>systolic array</strong> architecture for CNNs — a hardware-AI bridge project benchmarked on FPGA with Vivado synthesis.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/SystemVerilog-0058AD?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vivado-007ACC?style=flat-square" />
+        <img src="https://img.shields.io/badge/CNN-EE4C2C?style=flat-square" />
+      </p>
+      <p align="center"><a href="https://github.com/ridash2005/Systolic-Array-based-Hardware-Accelerator-for-CNNs">🔗 View Project</a></p>
+    </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Verilog-F0E68C?style=for-the-badge&logo=verilog&logoColor=black" /> <br/>
-      <img src="https://img.shields.io/badge/SystemVerilog-0058AD?style=for-the-badge" /> <br/>
-      <img src="https://img.shields.io/badge/RISC--V-67AC4F?style=for-the-badge" /> <br/>
-      <img src="https://img.shields.io/badge/FPGA-BB0000?style=for-the-badge" />
+    <td width="50%">
+      <h3 align="center">🔷 RISC-V Multi-Precision Core</h3>
+      <p align="center">
+        Complete <strong>RV32I/RV64I</strong> processor implementation with multi-precision arithmetic support — pipeline stages, hazard detection, and full ISA compliance.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Verilog-F0E68C?style=flat-square" />
+        <img src="https://img.shields.io/badge/RISC--V-67AC4F?style=flat-square" />
+        <img src="https://img.shields.io/badge/ISA_Design-003366?style=flat-square" />
+      </p>
+      <p align="center"><a href="https://github.com/ridash2005/RISC_V_Single_Cycle_Processor">🔗 View Project</a></p>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cpp,py,bash&theme=dark" />
-      <br/>
-      <img src="https://img.shields.io/badge/CUDA-4EAA25?style=for-the-badge&logo=cuda&logoColor=black" />
+    <td width="50%">
+      <h3 align="center">🗺️ AutoPlacer — VLSI EDA Tool</h3>
+      <p align="center">
+        Automated VLSI <strong>cell placement optimizer</strong> using metaheuristics (simulated annealing + force-directed). Python-based EDA toolchain contribution.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+      </p>
+      <p align="center"><a href="https://github.com/ridash2005/AutoPlacer">🔗 View Project</a></p>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,linux,vscode,github&theme=dark" />
-      <br/>
-      <img src="https://img.shields.io/badge/Vivado-007ACC?style=for-the-badge" /> <br/>
-      <img src="https://img.shields.io/badge/ModelSim-005A9C?style=for-the-badge" />
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">⚡ CUDA Kernels — GPU Engineering</h3>
+      <p align="center">
+        Custom high-performance <strong>CUDA kernels</strong> for mathematical and neural operations — matrix multiply, convolution primitives, and attention mechanism acceleration. Bridges AI software with hardware performance engineering.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/GPU_Architecture-222222?style=flat-square" />
+        <img src="https://img.shields.io/badge/Parallel_Computing-2C7BB6?style=flat-square" />
+      </p>
+      <p align="center"><a href="https://github.com/ridash2005/CUDA_Kernels">🔗 View Project</a></p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🌟 Featured Orchestrations
+## 🔬 Research Interests
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Bit-Serial Neural Engine](https://github.com/ridash2005/Bit-Serial_Neural_Computation_Engine)** | A hardware accelerator for neural computation using bit-serial arithmetic for high efficiency. | Verilog, RTL, Neural Arch |
-| **[Systolic Array CNN Accelerator](https://github.com/ridash2005/Systolic-Array-based-Hardware-Accelerator-for-CNNs)** | High-throughput systolic array architecture optimized for Convolutional Neural Networks. | SystemVerilog, Vivado, CNNs |
-| **[RISC-V Multi-Precision Core](https://github.com/ridash2005/RISC-V_MultiPrecision_Processor_Core)** | A complete RV32I/RV64I implementation with multi-precision support. | Verilog, RISC-V ISA |
-| **[AutoPlacer](https://github.com/ridash2005/AutoPlacer)** | Automated VLSI cell placement optimizer for high-density layouts. | Python, NumPy, Matplotlib |
-| **[CUDA Kernels](https://github.com/ridash2005/CUDA_Kernels)** | High-performance custom CUDA kernels for mathematical and neural operations. | CUDA, C++, GPU |
+```
+  ┌──────────────────────┐    ┌──────────────────────┐    ┌──────────────────────┐
+  │   HARDWARE AI        │    │  COMPUTER ARCH       │    │   VLSI EDA           │
+  │──────────────────────│    │──────────────────────│    │──────────────────────│
+  │ • Systolic Arrays    │    │ • RISC-V Pipelines   │    │ • Placement Algos    │
+  │ • Neural Engines     │    │ • Multi-Precision     │    │ • Sub-7nm Design     │
+  │ • Edge Inference     │    │ • Heterogeneous Arch  │    │ • DFT / DFM          │
+  │ • LLM Accelerators   │    │ • Memory Hierarchy    │    │ • Physical Synthesis │
+  └──────────────────────┘    └──────────────────────┘    └──────────────────────┘
+```
 
 ---
 
-### 📈 Activity Graph
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridash2005&theme=tokyonight&hide_border=true&area=true" width="100%" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ridash2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridash2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ridash2005&theme=tokyonight&hide_border=true" width="70%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ridash2005&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ridash2005&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
+</div>
+
+---
+
+## 💡 What Makes Me Different
+
+> Most engineers work in **one layer** of the stack.
+> I work in **all three** — and I know where they intersect.
+
+| Layer | What I bring |
+|---|---|
+| ⚙️ **Silicon / RTL** | I design the chips and accelerators that run AI — not just use them |
+| 💻 **Software / Systems** | I write the firmware, drivers, runtimes, and APIs that connect hardware to applications |
+| 🤖 **AI / ML** | I build and optimize models, knowing exactly what the hardware underneath can and cannot do |
+
+This **full-stack hardware-to-intelligence** perspective is rare — and it's what I bring to every project.
 
 ---
 
 <div align="center">
-  <h3>Let's build the future bridging AI and silicon together! 🔌</h3>
-  <p><i>"The hardware is only as good as the software it runs, and the software is only as fast as the hardware allows."</i></p>
+  <h3>🔌 Let's build the future — from gates to gradients.</h3>
+  <br/>
+  <i>"The best AI systems are designed by engineers who understand the silicon they run on."</i>
+  <br/><br/>
+  
+  <a href="https://www.linkedin.com/in/rickarya-das-06ab002b3/">
+    <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:rickaryadas@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
+
+<img src="assets/footer_v2.png" alt="Footer" width="100%">

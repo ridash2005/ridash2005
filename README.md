@@ -175,9 +175,9 @@ I architect systems at **every level of the computing stack** — from RTL gate 
   │   HARDWARE AI        │    │  COMPUTER ARCH       │    │   VLSI EDA           │
   │──────────────────────│    │──────────────────────│    │──────────────────────│
   │ • Systolic Arrays    │    │ • RISC-V Pipelines   │    │ • Placement Algos    │
-  │ • Neural Engines     │    │ • Multi-Precision     │    │ • Sub-7nm Design     │
-  │ • Edge Inference     │    │ • Heterogeneous Arch  │    │ • DFT / DFM          │
-  │ • LLM Accelerators   │    │ • Memory Hierarchy    │    │ • Physical Synthesis │
+  │ • Neural Engines     │    │ • Multi-Precision    │    │ • Sub-7nm Design     │
+  │ • Edge Inference     │    │ • Heterogeneous Arch │    │ • DFT / DFM          │
+  │ • LLM Accelerators   │    │ • Memory Hierarchy   │    │ • Physical Synthesis │
   └──────────────────────┘    └──────────────────────┘    └──────────────────────┘
 ```
 

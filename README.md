@@ -15,7 +15,9 @@
   <a href="https://github.com/ridash2005">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ridash2005&label=Profile+Views&color=00D4FF&style=for-the-badge" />
+  <a href="https://github.com/ridash2005/ridash2005">
+    <img src="https://komarev.com/ghpvc/?username=ridash2005&label=Profile+Views&color=00D4FF&style=for-the-badge" />
+  </a>
 </p>
 
 </div>
@@ -112,9 +114,9 @@ I architect systems at **every level of the computing stack** — from RTL gate 
         Hardware accelerator for neural computation using <strong>bit-serial arithmetic</strong> for maximum efficiency at ultra-low power. Demonstrates HW + AI co-design thinking.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Verilog-F0E68C?style=flat-square" />
-        <img src="https://img.shields.io/badge/RTL-CC0000?style=flat-square" />
-        <img src="https://img.shields.io/badge/Neural_Arch-6A0DAD?style=flat-square" />
+        <a href="https://www.verilog.com"><img src="https://img.shields.io/badge/Verilog-F0E68C?style=flat-square" /></a>
+        <a href="https://en.wikipedia.org/wiki/Register-transfer_level"><img src="https://img.shields.io/badge/RTL-CC0000?style=flat-square" /></a>
+        <a href="https://en.wikipedia.org/wiki/Computer_architecture"><img src="https://img.shields.io/badge/Neural_Arch-6A0DAD?style=flat-square" /></a>
       </p>
       <p align="center"><a href="https://github.com/ridash2005/Bit-Serial_Neural_Computation_Engine">🔗 View Project</a></p>
     </td>
@@ -124,9 +126,9 @@ I architect systems at **every level of the computing stack** — from RTL gate 
         High-throughput <strong>systolic array</strong> architecture for CNNs — a hardware-AI bridge project benchmarked on FPGA with Vivado synthesis.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/SystemVerilog-0058AD?style=flat-square" />
-        <img src="https://img.shields.io/badge/Vivado-007ACC?style=flat-square" />
-        <img src="https://img.shields.io/badge/CNN-EE4C2C?style=flat-square" />
+        <a href="https://www.accellera.org/downloads/standards/systemverilog"><img src="https://img.shields.io/badge/SystemVerilog-0058AD?style=flat-square" /></a>
+        <a href="https://www.xilinx.com/products/design-tools/vivado.html"><img src="https://img.shields.io/badge/Vivado-007ACC?style=flat-square" /></a>
+        <a href="https://pytorch.org"><img src="https://img.shields.io/badge/CNN-EE4C2C?style=flat-square" /></a>
       </p>
       <p align="center"><a href="https://github.com/ridash2005/Systolic-Array-based-Hardware-Accelerator-for-CNNs">🔗 View Project</a></p>
     </td>
@@ -138,9 +140,9 @@ I architect systems at **every level of the computing stack** — from RTL gate 
         Complete <strong>RV32I/RV64I</strong> processor implementation with multi-precision arithmetic support — pipeline stages, hazard detection, and full ISA compliance.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Verilog-F0E68C?style=flat-square" />
-        <img src="https://img.shields.io/badge/RISC--V-67AC4F?style=flat-square" />
-        <img src="https://img.shields.io/badge/ISA_Design-003366?style=flat-square" />
+        <a href="https://www.verilog.com"><img src="https://img.shields.io/badge/Verilog-F0E68C?style=flat-square" /></a>
+        <a href="https://riscv.org"><img src="https://img.shields.io/badge/RISC--V-67AC4F?style=flat-square" /></a>
+        <a href="https://en.wikipedia.org/wiki/Instruction_set_architecture"><img src="https://img.shields.io/badge/ISA_Design-003366?style=flat-square" /></a>
       </p>
       <p align="center"><a href="https://github.com/ridash2005/RISC_V_Single_Cycle_Processor">🔗 View Project</a></p>
     </td>
@@ -150,9 +152,9 @@ I architect systems at **every level of the computing stack** — from RTL gate 
         Automated VLSI <strong>cell placement optimizer</strong> using metaheuristics (simulated annealing + force-directed). Python-based EDA toolchain contribution.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+        <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
+        <a href="https://numpy.org"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /></a>
+        <a href="https://matplotlib.org"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" /></a>
       </p>
       <p align="center"><a href="https://github.com/ridash2005/AutoPlacer">🔗 View Project</a></p>
     </td>
@@ -164,10 +166,10 @@ I architect systems at **every level of the computing stack** — from RTL gate 
         Custom high-performance <strong>CUDA kernels</strong> for mathematical and neural operations — matrix multiply, convolution primitives, and attention mechanism acceleration. Bridges AI software with hardware performance engineering.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/GPU_Architecture-222222?style=flat-square" />
-        <img src="https://img.shields.io/badge/Parallel_Computing-2C7BB6?style=flat-square" />
+        <a href="https://developer.nvidia.com/cuda-toolkit"><img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" /></a>
+        <a href="https://isocpp.org"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /></a>
+        <a href="https://en.wikipedia.org/wiki/Graphics_processing_unit"><img src="https://img.shields.io/badge/GPU_Architecture-222222?style=flat-square" /></a>
+        <a href="https://en.wikipedia.org/wiki/Parallel_computing"><img src="https://img.shields.io/badge/Parallel_Computing-2C7BB6?style=flat-square" /></a>
       </p>
       <p align="center"><a href="https://github.com/ridash2005/CUDA_Kernels">🔗 View Project</a></p>
     </td>
@@ -248,4 +250,4 @@ This **full-stack hardware-to-intelligence** perspective is rare — and it's wh
   </a>
 </div>
 
-<img src="assets/footer_v2.png" alt="Footer" width="100%">
+<img src="assets/banner.png" alt="Footer" width="100%">

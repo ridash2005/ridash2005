@@ -33,12 +33,7 @@
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
-I architect systems at **every level of the computing stack** — from RTL gate logic and RISC-V silicon to full-stack applications and production LLM pipelines. I believe the engineers who understand *all three layers* will define the next decade of AI hardware.
-
-- 🔭 **Currently:** High-performance RISC-V core optimizations + automated physical design flows
-- 🤖 **AI Research:** Hardware accelerators for edge inference, LLM-aware chip design
-- 💻 **Software:** Full-stack systems, GPU kernel engineering, MLOps pipelines
-- 🎓 **Academic:** VLSI placement efficiency via modern metaheuristics
+I architect systems at **every level of the computing stack** — from RTL gate logic and silicon to full-stack applications and production LLM pipelines. I believe the engineers who understand *all three layers* will define the next decade of AI hardware.
 
 ---
 
@@ -245,4 +240,4 @@ This **full-stack hardware-to-intelligence** perspective is rare — and it's wh
   </a>
 </div>
 
-<img src="assets/footer_v2.png" alt="Footer" width="100%">
+<img src="assets/banner.png" alt="Footer" width="100%">

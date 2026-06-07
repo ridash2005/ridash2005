@@ -215,7 +215,7 @@
   <br/><br/>
 
   <a href="https://www.linkedin.com/in/rickarya-das-06ab002b3/">
-    <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Let%27s_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:rickaryadas@gmail.com">
